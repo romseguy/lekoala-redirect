@@ -4,7 +4,7 @@ const nextConfig = {
     return [
       {
         source: '/',
-        destination: 'https://lekoala.netlify.app',
+        destination: 'https://lebonforum.fr',
         permanent: true,
       },
     ];
