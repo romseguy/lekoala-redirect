@@ -4,7 +4,7 @@ const nextConfig = {
     return [
       {
         source: '/',
-        destination: 'https://lebonforum.fr',
+        destination: 'https://romseguy.com',
         permanent: true,
       },
     ];
